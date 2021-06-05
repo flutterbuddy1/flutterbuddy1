@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**codeking5/codeking5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some cool Projects
+- 🌱 I’m currently learning new Things 
+- 👯 I’m looking to collaborate on some Flutter , JavaScript , PHP , ReactJS , React Native and more projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about smething.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/_mayank__diwakar_) [github](https://github.com/codeking5) [**Gmail**](mailto:mayanksmind@gmail.com)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Have I told you about my crazy Friends?
+
+    Hi, I'm Mayank Diwakar, I love building amazing software which make an impact,
+  share open source projects @ [github](https://github.com/codeking5),
+
+![enter image description here](https://github-readme-stats.vercel.app/api?username=codeking5&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
