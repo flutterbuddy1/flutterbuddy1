@@ -14,4 +14,5 @@
 Hi, I'm Mayank Diwakar, I love building amazing software which make an impact,share open source projects @ [github](https://github.com/codeking5),
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeking5&show_icons=true&locale=en&layout=compact" alt="codeking5" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeking5&show_icons=true&locale=en" alt="codeking5" /></p>
+<p>&nbsp;&nbsp;</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeking5&show_icons=true&locale=en" alt="codeking5" /></p>
