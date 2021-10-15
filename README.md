@@ -15,8 +15,6 @@ Hi, I'm Mayank Diwakar, I love building amazing software which make an impact,sh
 
 <p><img align="left" style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeking5" alt="codeking5" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeking5&show_icons=true&locale=en" alt="codeking5" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeking5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codeking5&repo=github-readme-stats" />
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeking5&show_icons=true&locale=en" alt="codeking5" /></p>
