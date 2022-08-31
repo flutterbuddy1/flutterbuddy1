@@ -56,7 +56,7 @@ I am Mayank Diwakar, a **Full-Stack Developer** (particularly in **Laravel** & *
 ### Connect With Me
 [![Instagram](https://img.shields.io/badge/instagram-8a3ab9.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayankdiwakarr)
 [![Gmail](https://img.shields.io/badge/gmail-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksmind@gmail.com)
-[![Website](https://img.shields.io/badge/website-red.svg?style=for-the-badge&logo=buddy&logoColor=white)](https://flutterbuddy.in)
+[![Website](https://img.shields.io/badge/website-red.svg?style=for-the-badge&logo=buddy&logoColor=white)](https://flutterbuddy.in/)
 
 ### 🛰 Stats
 <div align="left">
