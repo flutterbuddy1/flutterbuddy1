@@ -59,7 +59,7 @@ I am Mayank Diwakar, a **Full-Stack Developer** (particularly in **Laravel** & *
 [![Website](https://img.shields.io/badge/website-red.svg?style=for-the-badge&logo=buddy&logoColor=white)](https://flutterbuddy.in)
 
 ### 🛰 Stats
-<div align="center">
-    <img align="center" style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbuddy1" alt="flutterbuddy1" />
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=flutterbuddy1&show_icons=true&locale=en" alt="flutterbuddy1" /></p>
+<div align="left">
+    <img align="left" style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbuddy1" alt="flutterbuddy1" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=flutterbuddy1&show_icons=true&locale=en" alt="flutterbuddy1" /></p>
 </div>
