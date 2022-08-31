@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on some Flutter , JavaScript , PHP , ReactJS , React Native and more projects
 
 - 💬 Ask me about smething.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/_mayank__diwakar_) [github](https://github.com/codeking5) [**Gmail**](mailto:mayanksmind@gmail.com)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/mayankdiwakarr) [github](https://github.com/codeking5) [**Gmail**](mailto:mayanksmind@gmail.com)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Have I told you about my crazy Friends?
 
