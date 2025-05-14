@@ -63,3 +63,9 @@ I am Mayank Diwakar, a **Full-Stack Developer** (particularly in **Laravel** & *
     <img align="left" style="margin-bottom:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbuddy1" alt="flutterbuddy1" />
     <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=flutterbuddy1&show_icons=true&locale=en" alt="flutterbuddy1" /></p>
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/flutterbuddy1/flutterbuddy1/output/snake.svg" alt="Snake animation" />
+
+###
