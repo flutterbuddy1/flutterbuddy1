@@ -10,9 +10,8 @@
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayankdiwakarr)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayank_diwakarr/)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayanksmind@gmail.com)
-[![Telegram](https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/flutterbuddy)
 
 </div>
 
