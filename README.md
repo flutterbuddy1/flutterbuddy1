@@ -128,11 +128,7 @@ console.log(mayank.executeCommand("BUILD_THE_FUTURE"));
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=flutterbuddy1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&icon_color=FF00FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=flutterbuddy1&theme=radical&hide_border=true&background=0D1117&ring=00FFF7&fire=FF00FF&currStreakLabel=00FFF7" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterbuddy1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=flutterbuddy1&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFF7&text_color=FFFFFF" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=flutterbuddy1&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFF7&line=FF00FF&point=FFFFFF&area=true&area_color=00FFF7" width="100%"/>
 
