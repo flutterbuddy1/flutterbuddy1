@@ -15,8 +15,8 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=500&color=00FFF7&center=true&vCenter=true&width=800&lines=⚡+NEURAL+NETWORK+ENGINEER+⚡;⟨⟨+Laravel+%7C+NestJS+%7C+Flutter+⟩⟩;⟨+BUILDING+THE+FUTURE+OF+CODE+⟩;🌐+MOBILE+%26+WEB+ARCHITECT+🌐;⟨⟨+INNOVATING+DIGITAL+REALITIES+⟩⟩" alt="Cyber Typing" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&width=600&lines=Laravel+%26+Flutter+Specialist;NestJS+%26+React+Native+Developer;Creative+Full-Stack+Problem+Solver" alt="Typing SVG" />
+  
 <p align="center">
   <img src="https://img.shields.io/badge/⚡_SYSTEM-ONLINE-00FFF7?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🌍_LOCATION-INDIA-FF00FF?style=for-the-badge&labelColor=000000" />
