@@ -43,9 +43,6 @@
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flutterbuddy1&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=flutterbuddy1&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
-
 </div>
 
 ---
